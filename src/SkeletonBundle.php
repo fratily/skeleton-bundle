@@ -1,6 +1,6 @@
 <?php
 /**
- * FratilyPHP Kernel
+ * FratilyPHP Skeleton Bundle
  *
  * Licensed under The MIT License
  * For full copyright and license information, please see the LICENSE.
